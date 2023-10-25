@@ -8,5 +8,5 @@ int main()
     displayArray(numbers, 5);
     cout<<"conflict"<<endl;
     
-    return 0
+    return 0;
 }
